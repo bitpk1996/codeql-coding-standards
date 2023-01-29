@@ -10,6 +10,7 @@
  *       external/autosar/allocated-target/implementation
  *       external/autosar/enforcement/partially-automated
  *       external/autosar/obligation/required
+ *       external/autosar/obligation/we_need
  */
 
 import cpp

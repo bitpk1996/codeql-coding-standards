@@ -4,6 +4,13 @@
     kind:
     - problem
     - path-problem
+    - alert
+    - path-alert
+    precision:
+    - high
+    - very-high
+    problem.severity:
+    - error
 - exclude:
     tags contain:
     - external/autosar/audit
