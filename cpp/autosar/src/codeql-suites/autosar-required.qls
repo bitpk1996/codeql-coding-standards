@@ -4,8 +4,14 @@
     kind:
     - problem
     - path-problem
+    precision:
+    - high
+    - very-high
+    problem.severity:
+    - error
+    - warning
     tags contain:
-    - external/autosar/obligation/required
+    - external/autosar/obligation/we_need
 - exclude:
     tags contain:
     - external/autosar/audit

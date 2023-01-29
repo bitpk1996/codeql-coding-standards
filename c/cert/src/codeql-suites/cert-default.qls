@@ -4,6 +4,11 @@
     kind:
     - problem
     - path-problem
+    precision:
+    - high
+    - very-high
+    problem.severity:
+    - error
 - exclude:
     tags contain:
     - external/cert/default-disabled
