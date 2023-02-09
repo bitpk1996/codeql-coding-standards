@@ -3,7 +3,7 @@
  * @name EXP34-C: Do not dereference null pointers
  * @description Dereferencing a null pointer leads to undefined behavior.
  * @kind problem
- * @precision medium
+ * @precision high
  * @problem.severity error
  * @tags external/cert/id/exp34-c
  *       correctness
