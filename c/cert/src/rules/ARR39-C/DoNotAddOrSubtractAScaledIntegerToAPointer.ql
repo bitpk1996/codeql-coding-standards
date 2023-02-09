@@ -9,6 +9,7 @@
  * @tags external/cert/id/arr39-c
  *       correctness
  *       external/cert/obligation/rule
+ *       no_need
  */
 
 import cpp

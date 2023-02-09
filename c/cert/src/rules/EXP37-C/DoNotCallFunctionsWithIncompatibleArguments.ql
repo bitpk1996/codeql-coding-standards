@@ -9,6 +9,7 @@
  * @tags external/cert/id/exp37-c
  *       correctness
  *       external/cert/obligation/rule
+ *       no_need
  */
 
 import cpp

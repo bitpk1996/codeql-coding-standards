@@ -8,6 +8,7 @@
  * @tags external/cert/id/err32-c
  *       correctness
  *       external/cert/obligation/rule
+ *       no_need
  */
 
 import cpp
