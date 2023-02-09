@@ -9,6 +9,7 @@
  * @tags external/misra/id/rule-18-2
  *       correctness
  *       external/misra/obligation/required
+ *       no_need
  */
 
 import cpp
