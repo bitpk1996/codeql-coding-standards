@@ -4,12 +4,13 @@
  * @description Using the value of an object with automatic storage duration while it is
  *              indeterminate is undefined behavior.
  * @kind problem
- * @precision medium
+ * @precision high
  * @problem.severity error
  * @tags external/cert/id/exp33-c
  *       correctness
  *       security
  *       external/cert/obligation/rule
+ *       no_need
  */
 
 import cpp
